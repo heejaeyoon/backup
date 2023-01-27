@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;gogo3.Tv1&apos; to &apos;Ex14&apos;&#x0D;&#x0A;- Original project: &apos;gogo3&apos;&#x0D;&#x0A;- Original element: &apos;gogo3.Tv1&apos;&#x0D;&#x0A;- Renamed element: &apos;gogo3.Ex14&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Tv1&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;gogo3{Tv1.java[Tv1" matchStrategy="1" name="Ex14" qualified="false" references="true" similarDeclarations="false" stamp="1670493172726" textual="false" version="1.0"/>
+</session>

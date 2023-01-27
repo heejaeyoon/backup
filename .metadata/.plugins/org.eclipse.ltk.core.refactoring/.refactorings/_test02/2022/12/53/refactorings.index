@@ -1,0 +1,51 @@
+1672206373836	Rename type '회원정보'
+1672216300350	Rename package '_test02'
+1672216354898	Delete element
+1672216361005	Delete element
+1672216369834	Copy compilation unit
+1672216389308	Delete element
+1672216390964	Delete element
+1672216403011	Copy compilation unit
+1672216485263	Copy compilation unit
+1672216488709	Delete element
+1672216535267	Copy compilation unit
+1672216543222	Delete element
+1672216546154	Copy compilation unit
+1672216548179	Delete element
+1672216568403	Delete element
+1672216570200	Copy compilation unit
+1672216571794	Delete element
+1672217163322	Delete element
+1672217165770	Rename resource 'test.jsp'
+1672218410590	Delete element
+1672218468245	Delete element
+1672218503683	Delete element
+1672218956813	Delete element
+1672218959698	Delete element
+1672219225948	Delete element
+1672219231402	Rename resource 'dddd.jsp'
+1672219269767	Delete element
+1672219272415	Rename resource 'ss.jsp'
+1672219395348	Delete element
+1672219402846	Rename resource 'sss.jsp'
+1672219561757	Delete element
+1672219589794	Delete element
+1672219594235	Rename resource 'my.jsp'
+1672219600623	Rename resource 'mypage.jsp'
+1672219705173	Delete element
+1672219707918	Rename resource 'ba.jsp'
+1672220076196	Move 'signupApply.tag' to 'tag'
+1672220079255	Move 'Search.tag' to 'tag'
+1672220081137	Move 'Product_noMem.tag' to 'tag'
+1672220083334	Move 'Product_mem.tag' to 'tag'
+1672220086447	Move 'buyApply.tag' to 'tag'
+1672220126743	Rename resource 'tag'
+1672220487200	Rename resource 'Product_mem.tag'
+1672220504743	Rename resource 'Product_noMem.tag'
+1672220554594	Rename resource 'product_mem.tag'
+1672220557400	Rename resource 'product_noMem.tag'
+1672220619189	Delete element
+1672220674396	Move 'basket.tag' to 'tags'
+1672302070209	Rename resource 'Product_noMem.tag'
+1672302076932	Rename resource 'product_nomem.tag'
+1672302126931	Rename resource 'Product_mem.tag'

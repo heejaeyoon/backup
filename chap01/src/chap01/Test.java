@@ -1,0 +1,15 @@
+package chap01;
+
+public class Test {
+	public static void main(String[] args) {
+//		int i = 0;
+//		int ret = 100 + i++;
+//		System.out.println(ret);
+//		System.out.println(i);
+		
+		int i = 0;
+		int ret = 100 + ++i;
+		System.out.println(ret);
+		System.out.println(i);
+	}
+}

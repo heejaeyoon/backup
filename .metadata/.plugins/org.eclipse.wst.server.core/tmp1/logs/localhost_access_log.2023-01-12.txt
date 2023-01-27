@@ -1,0 +1,4 @@
+127.0.0.1 - - [12/Jan/2023:15:04:51 +0900] "GET / HTTP/1.1" 404 808
+0:0:0:0:0:0:0:1 - - [12/Jan/2023:15:04:53 +0900] "GET /Fineapple-final/login/kakao2.jsp HTTP/1.1" 200 381
+127.0.0.1 - - [12/Jan/2023:19:25:31 +0900] "GET / HTTP/1.1" 404 808
+0:0:0:0:0:0:0:1 - - [12/Jan/2023:19:25:31 +0900] "GET /Fineapple-final/product/dbproduct.jsp HTTP/1.1" 500 6843

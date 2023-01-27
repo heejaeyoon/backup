@@ -1,0 +1,4 @@
+var newP = document.createElement("li")
+var txNode = document.createTextNode("테스트");
+newP.appendChild(txNode);
+document.getElementById("itemList").appendChild(newP);

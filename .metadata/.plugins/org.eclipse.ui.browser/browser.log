@@ -1,0 +1,40 @@
+
+12월 20, 2022 14:24:22.150 NEW SESSION
+12월 20, 2022 14:24:22.150 [12468:16444:1220/142422.147:ERROR:device_event_log_impl.cc(215)] [14:24:22.147] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 20, 2022 14:24:22.152 [12468:16444:1220/142422.151:ERROR:device_event_log_impl.cc(215)] [14:24:22.152] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+12월 20, 2022 14:26:01.594 [15968:14300:1220/142601.593:ERROR:device_event_log_impl.cc(215)] [14:26:01.593] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 20, 2022 14:26:01.598 [15968:14300:1220/142601.598:ERROR:device_event_log_impl.cc(215)] [14:26:01.597] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+
+12월 30, 2022 14:26:47.951 NEW SESSION
+12월 30, 2022 14:26:47.951 [20088:10592:1230/142647.950:ERROR:cache_util_win.cc(20)] Unable to move the cache: 액세스가 거부되었습니다. (0x5)
+12월 30, 2022 14:26:47.978 기존 브라우저 세션에서 여는 중입니다.
+12월 30, 2022 14:26:48.20 [20088:14952:1230/142648.020:ERROR:disk_cache.cc(205)] Unable to create cache
+12월 30, 2022 14:26:48.20 [20088:14952:1230/142648.020:ERROR:gpu_disk_cache.cc(673)] Gpu Cache Creation failed: -2
+12월 30, 2022 14:26:50.08 [20088:14952:1230/142650.008:ERROR:device_event_log_impl.cc(215)] [14:26:50.008] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 30, 2022 14:26:50.38 [20088:14952:1230/142650.038:ERROR:device_event_log_impl.cc(215)] [14:26:50.038] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+12월 30, 2022 14:27:47.969 [20088:7240:1230/142747.968:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+1월 03, 2023 15:08:42.934 NEW SESSION
+1월 03, 2023 15:08:42.934 [10760:12776:0103/150842.927:ERROR:device_event_log_impl.cc(215)] [15:08:42.927] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+1월 03, 2023 15:08:42.941 [10760:12776:0103/150842.936:ERROR:device_event_log_impl.cc(215)] [15:08:42.935] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+1월 03, 2023 15:09:40.913 [10760:7884:0103/150940.913:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+1월 10, 2023 10:47:25.891 NEW SESSION
+1월 10, 2023 10:47:25.891 [13976:3368:0110/104725.890:ERROR:device_event_log_impl.cc(215)] [10:47:25.890] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+1월 10, 2023 10:47:25.896 [13976:3368:0110/104725.896:ERROR:device_event_log_impl.cc(215)] [10:47:25.896] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+1월 10, 2023 10:48:23.311 [13976:16240:0110/104823.311:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+1월 10, 2023 11:06:15.170 [13976:11804:0110/110615.169:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for icon-library.net failed:
+1월 10, 2023 11:06:15.170 ----- Certificate i=0 (CN=icon-library.es,OU=PositiveSSL,OU=Domain Control Validated) -----
+1월 10, 2023 11:06:15.170 ERROR: Time is after notAfter
+1월 10, 2023 11:06:15.172 
+1월 10, 2023 11:06:15.172 
+1월 10, 2023 11:09:06.585 [13976:14840:0110/110906.585:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for sourcerer.io failed:
+1월 10, 2023 11:09:06.586 ----- Certificate i=0 (CN=sourcerer.io,OU=PositiveSSL Multi-Domain,OU=Domain Control Validated) -----
+1월 10, 2023 11:09:06.586 ERROR: Time is after notAfter
+1월 10, 2023 11:09:06.586 
+1월 10, 2023 11:09:06.586 
+1월 10, 2023 13:41:49.876 [13976:3368:0110/134149.876:ERROR:device_event_log_impl.cc(215)] [13:41:49.880] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+1월 10, 2023 15:45:14.582 [13976:3368:0110/154514.582:ERROR:gpu_process_host.cc(990)] GPU process exited unexpectedly: exit_code=34
+1월 10, 2023 15:48:23.201 [13976:16644:0110/154823.200:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+1월 10, 2023 17:30:47.922 [13976:3368:0110/173047.922:ERROR:interface_endpoint_client.cc(694)] Message 1 rejected by interface blink.mojom.WidgetHost
+1월 10, 2023 18:51:24.353 [13976:3368:0110/185124.352:ERROR:interface_endpoint_client.cc(694)] Message 1 rejected by interface blink.mojom.WidgetHost

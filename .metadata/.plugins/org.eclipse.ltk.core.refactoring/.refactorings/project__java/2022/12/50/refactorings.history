@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;buspj.image&apos; to &apos;project__java/buspj&apos;&#x0D;&#x0A;- Original project: &apos;project__java&apos;&#x0D;&#x0A;- Destination element: &apos;project__java/buspj&apos;&#x0D;&#x0A;- Original element: &apos;project__java/buspj.image&apos;" description="Copy package" destination="/&lt;buspj" element1="/&lt;buspj.image" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1670567772722" version="1.0"/>
+</session>

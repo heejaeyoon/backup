@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;swing04.win1&apos; to &apos;Win1&apos;&#x0D;&#x0A;- Original project: &apos;swing04&apos;&#x0D;&#x0A;- Original element: &apos;swing04.win1&apos;&#x0D;&#x0A;- Renamed element: &apos;swing04.Win1&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;win1&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;swing04{win1.java[win1" matchStrategy="1" name="Win1" qualified="false" references="true" similarDeclarations="false" stamp="1670555226575" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<modules>
+  <module moduleId="org.eclipse.jst.jee.server:jsp1221" serverId="Tomcat v10.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:Fineapple-final" serverId="Tomcat v10.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:_test03" serverId="Tomcat v10.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:timemarket_front2" serverId="Tomcat v10.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:_test02" serverId="Tomcat v10.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:testweb" serverId="Tomcat v10.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:jsp1220" serverId="Tomcat v10.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:_test01" serverId="Tomcat v10.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:shopping2" serverId="Tomcat v10.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:_jsp10" serverId="Tomcat v10.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:_jsp11" serverId="Tomcat v10.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:shop" serverId="Tomcat v10.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:boadr" serverId="Tomcat v10.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:shopping" serverId="Tomcat v10.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:_jsp09" serverId="Tomcat v10.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:_sjp09" serverId="Tomcat v10.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:BookMarket" serverId="Tomcat v10.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:board" serverId="Tomcat v10.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:_Ex" serverId="Tomcat v10.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:timemarket_front" serverId="Tomcat v10.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:Lecture Evaluation" serverId="Tomcat v10.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:_jsp03" serverId="Tomcat v10.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:_jsp04" serverId="Tomcat v10.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:_jsp01" serverId="Tomcat v10.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:_jsp02" serverId="Tomcat v10.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:_jsp07" serverId="Tomcat v10.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:_jsp08" serverId="Tomcat v10.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:_jsp05"/>
+  <module moduleId="org.eclipse.jst.jee.server:_jsp06" serverId="Tomcat v10.0 Server at localhost"/>
+</modules>
